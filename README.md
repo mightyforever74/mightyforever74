@@ -10,7 +10,7 @@ To deliver best-in-class digital products, passionate to work with as a QA team 
 
 <ul>
   <li>
-   🤺 I'm currently working on Advance Java System<\b>
+   🤺 I'm currently working on Advance Java System
   </li>
   <li>
    🐎 I regularly read articles on  [https://www.goalKicker.com](https://www.goalkicker.com/)
