@@ -24,10 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/cemsahinkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cemsahinkaya" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/cem-sahinkaya-00a84426b" target="_blank">
-  <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Profile" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/cem-sahinkaya-00a84426b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bxfeltfzttuicfcmljo6kyw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cem-sahinkaya-00a84426b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bxfeltfzttuicfcmljo6kyw%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cem-sahinkaya-00a84426b" target="_blank"> <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Profile" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ozgurbaglamaci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ozgurbaglamaci" height="30" width="40" /></a>
 <a href="YOUR_TEAMS_LINK" target="_blank">
   <img align="center" src="https://img.icons8.com/color/48/000000/microsoft-teams.png" alt="Microsoft Teams" height="30" width="40" /></a>
