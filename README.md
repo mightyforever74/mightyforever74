@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mightyforever74" alt="mightyforever74" /></a> </p>
 
-- 🤺 I’m currently working on **Advance Java System**
+- 🤺 I’m currently working on **AI, IoT**
 
 - 🐎 I’m currently learning from **[https://www.goalKicker.com](https://www.goalkicker.com/)**
 
@@ -13,7 +13,7 @@
 
 - 🙂‍↕️ Ask me about **CSS, HTML5, Java, MAVEN, Postman, SpringBoot**
 
-- 📫 How to reach me **cemsahinkaya74@outlook.com**
+- 📫 How to reach me **cem.sahinkaya74@bizimbulut.com**
 
 - ⚡ Teaching Music for fun **https://www.instagram.com/ozgurbaglamaci**
 
