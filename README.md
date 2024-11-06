@@ -1,7 +1,7 @@
 <img src="https://github.com/mightyforever74/mightyforever74/blob/main/banner.jpg?raw=true">
 
 <h1 align="center">Hi 👋, I'm Cem Sahinkaya</h1>
-<h3 align="center">Full Stack Java Developer</h3>
+<h3 align="center">Project Manager</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mightyforever74" alt="mightyforever74" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 🙂‍↕️ Ask me about **CSS, HTML5, Java, MAVEN, Postman, SpringBoot**
 
-- 📫 How to reach me **cem.sahinkaya74@bizimbulut.com**
+- 📫 How to reach me **cem.sahinkaya@bizimbulut.com**
 
 - ⚡ Teaching Music for fun **https://www.instagram.com/ozgurbaglamaci**
 
