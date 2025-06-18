@@ -13,7 +13,7 @@
 
 - 🙂‍↕️ Ask me about **CSS, HTML5, Java, MAVEN, Postman, SpringBoot**
 
-- 📫 How to reach me **info@solaroptimizer.com**
+- 📫 How to reach me **mightyforever74@gmail.com**
 
 - ⚡ Teaching Music for fun **https://www.instagram.com/ozgurbaglamaci**
 
